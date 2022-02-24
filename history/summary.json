@@ -4,18 +4,19 @@
     "url": "https://www.dailylearn.in",
     "icon": "https://favicons.githubusercontent.com/www.dailylearn.in",
     "slug": "dailylearn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
-    "time": 2219,
-    "timeDay": 1737,
-    "timeWeek": 1599,
-    "timeMonth": 2219,
-    "timeYear": 2219,
+    "time": 2722,
+    "timeDay": 11297,
+    "timeWeek": 3204,
+    "timeMonth": 2722,
+    "timeYear": 2722,
     "dailyMinutesDown": {
+      "2022-02-24": 0,
       "2022-01-26": 58
     }
   }
