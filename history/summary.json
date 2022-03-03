@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.dailylearn.in",
     "slug": "dailylearn",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.88%",
-    "time": 2901,
-    "timeDay": 1712,
-    "timeWeek": 5499,
-    "timeMonth": 2680,
-    "timeYear": 2901,
+    "uptimeYear": "99.89%",
+    "time": 2872,
+    "timeDay": 1597,
+    "timeWeek": 5484,
+    "timeMonth": 2677,
+    "timeYear": 2872,
     "dailyMinutesDown": {
       "2022-01-26": 58
     }
